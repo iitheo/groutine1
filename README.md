@@ -1,2 +1,2 @@
 # groutine1
-Go program explaining channels
+Go program explaining how channels work with goroutines.
